@@ -1,0 +1,7 @@
+streamlit
+joblib
+numpy
+firebase-admin
+twilio
+streamlit-autorefresh
+python-dotenv
